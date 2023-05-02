@@ -8988,3 +8988,30 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.05.02-14.14.02:289][537]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.05.02-14.14.02:289][537]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2023.05.02-14.14.26:619][926]LogSourceControl: Warning: '../../../../../../Users/Мария/Documents/Unreal Projects/Selemut/' is not part of a Git repository
+[2023.05.02-14.19.43:293][ 56]LogSlate: Window 'Source Control Login' being destroyed
+[2023.05.02-14.20.06:466][497]LogSlate: Window 'Source Control Login' being destroyed
+[2023.05.02-14.20.34:037][597]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Мария/Documents/Unreal Projects/Selemut/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.05.02-14.20.34:037][597]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Мария/Documents/Unreal Projects/Selemut/Content/Developers/Мария/Collections/' because it could not be accessed. Aborting watch request...
+[2023.05.02-14.20.34:037][597]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Мария/Documents/Unreal Projects/Selemut/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.05.02-14.20.52:399][787]LogSlate: Window 'Source Control Login' being destroyed
+[2023.05.02-14.20.58:443][872]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2023.05.02-14.20.58:505][872]LogSavePackage: Moving '../../../../../../Users/Мария/Documents/Unreal Projects/Selemut/Saved/ThirdPersonExampleMapDC7A92AE490EE4081123EEB852046476.tmp' to '../../../../../../Users/Мария/Documents/Unreal Projects/Selemut/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.02-14.20.58:516][872]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2023.05.02-14.20.58:860][872]LogSavePackage: Moving '../../../../../../Users/Мария/Documents/Unreal Projects/Selemut/Saved/ThirdPersonExampleMap_BuiltData2A7039D0401965C83C00AD84307C874A.tmp' to '../../../../../../Users/Мария/Documents/Unreal Projects/Selemut/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.05.02-14.20.58:863][872]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2023.05.02-14.20.58:905][872]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-14.20.58:906][872]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.05.02-14.20.58:906][872]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.05.02-14.21.05:558][954]SourceControl: Error: warning: LF will be replaced by CRLF in .gitignore.
+[2023.05.02-14.21.05:558][954]SourceControl: Error: The file will have its original line endings in your working directory
+[2023.05.02-14.21.05:558][954]SourceControl: Error: warning: LF will be replaced by CRLF in README.md.
+[2023.05.02-14.21.05:558][954]SourceControl: Error: The file will have its original line endings in your working directory
+[2023.05.02-14.21.06:622][961]LogSourceControl: commit successful: [main 4349297] Initial commit
+[2023.05.02-14.21.06:722][962]SourceControl: [main 4349297] Initial commit
+[2023.05.02-14.21.06:722][962]SourceControl:  4 files changed, 17 insertions(+)
+[2023.05.02-14.21.06:722][962]SourceControl:  create mode 100644 .gitignore
+[2023.05.02-14.21.06:722][962]SourceControl:  create mode 100644 README.md
+[2023.05.02-14.21.13:260][ 72]LogSlate: Window 'Source Control Login' being destroyed
+[2023.05.02-14.21.19:075][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
